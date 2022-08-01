@@ -1,6 +1,6 @@
 import os
 
-#Remoção dos checkpoints extras
+#Remoção dos checkpoints extras (extra checpoint removal)
 
 with open('clean_checkpoints.sh',"w") as o:
     o.write('#! /bin/bash \n')
