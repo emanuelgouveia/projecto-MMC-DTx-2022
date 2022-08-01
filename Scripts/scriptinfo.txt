@@ -1,6 +1,7 @@
 Script List
 
-analiseDataset.py -----> Distribuição do Dataset, Num de Imgs, Num de Classes
-descricao_estatistica -> Informação Estatística acerca da Distribuiçao entre classes
-resize.py -------------> Redimencionamento das Imgs 
-preprocessing-py ------> Preenchimento de Imagens (Transformação para Imagem "Quadrada") e estr.py ---------------> Estrutra do Dataset
+analiseDataset.py -----> Distribuição do Dataset, Num de Imgs, Num de Classes (Dataset Distribution, Number of Images, Number of Classes)
+descricao_estatistica -> Informação Estatística acerca da Distribuiçao entre classes (Statistical information about the Distribution between Classes)
+resize.py -------------> Redimensionamento das Imgs (Image Resizing)
+preprocessing-py ------> Preenchimento de Imagens, Transformação para Imagem "Quadrada" (Image Filling (Transformation to a "Square" Image)
+estr.py ---------------> Estrutra do Dataset (Dataset Structure)
