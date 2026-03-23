@@ -1,5 +1,5 @@
 # projecto-MMC-DTx-2022
-Vehicle make and model classification from images, using state-of-the-art computer vision models.
+Vehicle brand and model classification from images, using state-of-the-art computer vision models.
 
 ## Dataset labels
 The file `stanford_train.json` contains a dictionary of labels to use with a custom-defined training dataset from the Stanford Cars dataset.
